@@ -1,7 +1,7 @@
 # IN4533-BT02-MSSV: EduHub mini (PostgreSQL và REST API)
 
-- **Họ và tên:** Võ Văn Toàn
-- **MSSV:** 0024417563
+- **Họ và tên:** Thái Văn Toàn
+- **MSSV:** 0024419416
 - **Học phần:** Lập trình BackEnd (IN4533), Trường Đại học Đồng Tháp
 - **Bài tập:** 02, học kỳ 1, năm học 2026 – 2027
 
